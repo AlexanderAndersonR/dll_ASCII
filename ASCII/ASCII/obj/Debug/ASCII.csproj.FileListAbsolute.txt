@@ -1,0 +1,6 @@
+C:\Users\kaf\Desktop\21.05.2021\dll_ASCII\ASCII\ASCII\bin\Debug\ASCII.dll
+C:\Users\kaf\Desktop\21.05.2021\dll_ASCII\ASCII\ASCII\bin\Debug\ASCII.pdb
+C:\Users\kaf\Desktop\21.05.2021\dll_ASCII\ASCII\ASCII\obj\Debug\ASCII.csprojAssemblyReference.cache
+C:\Users\kaf\Desktop\21.05.2021\dll_ASCII\ASCII\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\kaf\Desktop\21.05.2021\dll_ASCII\ASCII\ASCII\obj\Debug\ASCII.dll
+C:\Users\kaf\Desktop\21.05.2021\dll_ASCII\ASCII\ASCII\obj\Debug\ASCII.pdb
